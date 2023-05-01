@@ -9,8 +9,9 @@
     </ul>
     <hr>
 # Customized Widgets look 👇
+<hr/>
 <div >
-    <img src="/home1.png" width="350px" height = "450px"</img>
+    <img src="/home1.png" width="300px" height = "450px"</img>
     <img src="/home2.png" width="300px" height = "450px"</img>
 </div>
          
