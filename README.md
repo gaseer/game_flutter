@@ -1,13 +1,5 @@
 # game_flutter
-
-## Things I had Learned from this project:
-<ul>
-    <li>How to use Flutter packages to make complex app</li>
-    <li>Fetching datas in realtime</li>
-    <li>Dart OOP concept</li>
-    <li>Screen Routes and Navigation</li>
-    </ul>
-    <hr>
+My first flutter game app
 # Customized Widgets look 👇
 <hr/>
 <div >
