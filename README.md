@@ -10,8 +10,7 @@
     <hr>
 # Customized Widgets look 👇
 <div >
-    <img src="/home1.png" width="300px" height = "400px"</img>
-</div><div >
+    <img src="/home1.png" width="300px" height = "200px"</img>
     <img src="/home2.png" width="300px" height = "400px"</img>
 </div>
          
