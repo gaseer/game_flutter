@@ -11,6 +11,7 @@ class GameScreen extends StatefulWidget {
   State<GameScreen> createState() => _GameScreenState();
 }
 
+
 class _GameScreenState extends State<GameScreen> {
   bool oTurn = true;
   List<String> displayXO = ['', '', '', '', '', '', '', '', ''];
@@ -98,6 +99,7 @@ class _GameScreenState extends State<GameScreen> {
                 ],
               )),
             ),
+            
             Expanded(
               flex: 3,
               child: GridView.builder(
@@ -175,6 +177,7 @@ class _GameScreenState extends State<GameScreen> {
     }
   }
 
+  
   void _checkWinner() {
     // check 1st row
     if (displayXO[0] == displayXO[1] &&
